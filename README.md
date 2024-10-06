@@ -50,6 +50,7 @@ Follow the steps below to set up and run the Python Gen AI RAG Bot on your local
     streamlit run learnx.py
     ```
 
+
 ## 🛑 Prerequisites
 
 Before running the application, ensure that the following are installed on your system:
@@ -80,6 +81,8 @@ Before running the application, ensure that the following are installed on your 
 5. **Gemini API Key**
    - Obtain your Gemini API Key to access the necessary features of the application. Follow the instructions on the [Gemini API documentation](https://aistudio.google.com/app) to get your key.
 
+
+
 ## 📚 Languages & Frameworks
 
 This application is built using the following technologies:
@@ -108,6 +111,8 @@ ChromaDB is a vector database used for storing and querying document embeddings,
 By leveraging these powerful languages and frameworks, we ensure that our application is not only efficient but also scalable and maintainable, providing a robust solution for users.
 
 
+
+
 ## 🌟 Features
 
 Our system boasts a range of powerful features designed to enhance user experience and efficiency:
@@ -126,6 +131,8 @@ Our system boasts a range of powerful features designed to enhance user experien
 
 5. **Efficient Vector Search**
    - Leverage **ChromaDB** to store document embeddings for efficient and fast retrieval, ensuring quick access to relevant information.
+
+
 
 
 ## 🎯 Future Improvements
@@ -153,8 +160,11 @@ We are continuously working on enhancing our system. Here are some key areas for
    - Develop strategies for managing rate limits and avoiding IP bans during scraping.
    - Incorporate natural language processing (NLP) techniques to analyze and summarize scraped content effectively.
 
+
+
 ### Conclusion
 By focusing on these improvements, we aim to enhance the overall performance and user experience of our system. Your feedback is invaluable in guiding these developments!
+
 
 
 
